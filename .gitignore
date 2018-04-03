@@ -1,0 +1,6 @@
+.DS_Store
+/.theos/
+/debs/
+/obj/
+/packages/
+/Pods/
